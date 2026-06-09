@@ -1,0 +1,29 @@
+.footerContainer {
+    border-top: 1px solid rgb(179, 179, 179);
+    background-color: #ebebeb;
+    padding: 10px;
+}
+
+.footerContainer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0
+}
+
+.footerContainer a {
+    text-decoration: none;
+    color: #4b4b4b;
+}
+
+.footerContainer a:hover {
+    color: black;
+}
+
+.paraRow p {
+    font-size: smaller;
+    color: #4b4b4b;
+}
+
+.footerLastRow .col a{
+    white-space: nowrap;
+}
